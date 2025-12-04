@@ -11,10 +11,7 @@ Odev no: 4_1
 
 
 package hafta_11;
-import java.security.DigestInputStream;
 import java.util.Scanner;
-
-import javax.naming.BinaryRefAddr;
 public class odev_4_1 {
 // İlk metod American
 public static void printAmerican(String day, int date , String month , int year) {
